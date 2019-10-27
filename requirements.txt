@@ -1,0 +1,5 @@
+Flask
+pattern
+pandas
+fuzzywuzzy
+numpy
